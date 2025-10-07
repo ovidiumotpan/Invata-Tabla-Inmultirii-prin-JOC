@@ -25,16 +25,16 @@ Scorul final este afișat la sfârșitul jocului.
    ```bash
    python main.py
 
-📚 Ce am învățat
+## 📚 Ce am învățat
 
 Cum se generează numere aleatorii în Python (random.randint())
 Cum se citesc date de la tastatură
 Cum se structurează un joc simplu în buclă while
 
-🧑‍💻 Tehnologii folosite
+## 🧑‍💻 Tehnologii folosite
 Python 3
 
-📸 Exemplu de rulare
+## 📸 Exemplu de rulare
 
 🎯 Bine ai venit la jocul Tablei Înmulțirii!
 Introdu 'stop' pentru a ieși.
@@ -47,6 +47,6 @@ Cât face 5 x 8? 42
 
 Joc terminat! Ai avut 1 răspunsuri corecte din 2. 👏
 
-📝 Licență
+## 📝 Licență
 
 Acest proiect poate fi folosit liber.
